@@ -10,6 +10,7 @@ DeleteVid2="?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=BZ2
 UpReview1="https://prod-33.eastus.logic.azure.com/workflows/026a05b8da9844559025f443b16d7723/triggers/manual/paths/invoke/rest/v1/movies/"
 UpReview2="?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=gP-Ihg_Y1xc15zhGA7nIfvm00bz6NZrMRiq7zDjtyB4"
 
+//wrqrwqr
 BLOB_ACCOUNT = "https://netflixish.blob.core.windows.net";
 
 //Handlers for button clicks
